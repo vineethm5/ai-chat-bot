@@ -1,0 +1,1 @@
+Install ollama in your local machine, and install in your project file as well, this will help to connect with local machine ollama
